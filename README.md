@@ -9,6 +9,7 @@ Welcome to our project repository!
 - Allen Abraham
 - Brady Adams
 - Shawn Allen
+I'm Shawn. I'm here. Hiking and video games a pretty cool. That's all.
 - Andrew Geurrero
 - Dax Kelson
 - Jin Starks
