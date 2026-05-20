@@ -9,7 +9,10 @@ Welcome to our project repository!
 - Allen Abraham
 - Brady Adams
 - Shawn Allen
-- Andrew Geurrero
+
+- Andrew Guerrero
+Hello, my name is Andrew. My favorite hobby is trying out new hobbies!
+
 - Dax Kelson
 - Jin Starks
 - Joseph West
