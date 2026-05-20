@@ -13,4 +13,4 @@ Welcome to our project repository!
 - Dax Kelson
 - Jin Starks
 - Joseph West
-Hey my name is Joseph West (I also go by Joey). My favorite hobbies are coding, weight training, and having an existential crisis.
+Hey my name is Joseph West (I also go by Joey). My favorite hobbies are coding, basketball, eating, weight training, and having an existential crisis.
