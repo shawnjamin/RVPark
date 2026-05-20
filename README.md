@@ -13,7 +13,11 @@ Welcome to our project repository!
 I'm Shawn. I'm here. Hiking and video games a pretty cool. That's all.
 - Andrew Geurrero
 - Dax Kelson
+
+Hello! My Name is Dax Kelson. I love building and painting minatures, coding, and hobbyist computer building
+
 - Jin Starks
 Hi, my name's Jin and I'm looking forward to building something together with the team! My favorite things to do are lurking on the internet and gaming.
 - Joseph West
 Hey my name is Joseph West (I also go by Joey). My favorite hobbies are coding, weight training, and having an existential crisis.
+
